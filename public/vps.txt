@@ -1,0 +1,5 @@
+ssh ubuntu@185.118.166.45
+password - kyawz!nl@tt
+
+
+sudo systemctl status apache2
